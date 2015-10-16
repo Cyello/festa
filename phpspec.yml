@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: festa
+        psr4_prefix: festa
+        src_path: app
